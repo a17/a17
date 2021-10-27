@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hello, people 👋
+### I am a17 and I am alien 👽
+### I came from deep space to improve your planet :earth_americas:
+
+## My interests
+* Social cybernetics
+* Peer-to-peer networks
+* Information security
+* Base systems and core protocols
+
+## My work
+* Building Stability protocol
 
 <!--
 **a17/a17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
