@@ -5,8 +5,8 @@
 ## My interests
 * Social cybernetics
 * Peer-to-peer networks
+* Distributed systems
 * Information security
-* Base systems and core protocols
 
 ## My work
 * Building Stability protocol
