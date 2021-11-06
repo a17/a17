@@ -4,6 +4,7 @@
 
 ## My interests
 * Social cybernetics
+* Decentralized finance
 * Peer-to-peer networks
 * Distributed systems
 * Information security
