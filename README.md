@@ -1,6 +1,5 @@
 # Hello, people 👋
-### I am a17 and I am alien 👽
-### I came from deep space to improve your planet :earth_americas:
+### Welcome to my github profile :beach_umbrella:
 
 ## My interests
 * Social cybernetics
