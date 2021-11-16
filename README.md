@@ -1,5 +1,6 @@
 # Hello, people 👋
 ### Welcome to my github profile :beach_umbrella:
+![visitors](https://visitor-badge.deta.dev/badge?page_id=a17/a17)
 
 ## My interests
 * Social cybernetics
