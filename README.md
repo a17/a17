@@ -7,9 +7,10 @@
 ## My interests
 * Social cybernetics
 * Decentralized finance
-* Peer-to-peer networks
-* Distributed systems
+* Tokenized securities
+* Peer-to-peer networks and distributed systems
 * Information security
+* Digital art
 
 ## My work
 * Building Stability protocol
