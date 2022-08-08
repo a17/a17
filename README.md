@@ -10,7 +10,8 @@
 * DAOs
 
 ## My work
-* StabilityDAO
+* Tetu, Dystopia, Cone
+* ReactSwap, StabilityDAO
 * MetaVisionGames
 
 <!--
