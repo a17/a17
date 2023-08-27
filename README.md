@@ -4,6 +4,7 @@
 
 ## My work
 * DeFi protocols development
+* Concentrated liquidity mining strategies development
 
 <!--
 **a17/a17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
